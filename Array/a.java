@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+/*K ROTATION ARRAY */
 public class a{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
