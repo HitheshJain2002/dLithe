@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ABSTRACT_INTERFACE/ABSTRACT_INTERFACE.iml" filepath="$PROJECT_DIR$/ABSTRACT_INTERFACE/ABSTRACT_INTERFACE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA_DAY_3/ABSTRACT_INTERFACE/ABSTRACT_INTERFACE.iml" filepath="$PROJECT_DIR$/JAVA_DAY_3/ABSTRACT_INTERFACE/ABSTRACT_INTERFACE.iml" />
       <module fileurl="file://$PROJECT_DIR$/Desktop.iml" filepath="$PROJECT_DIR$/Desktop.iml" />
       <module fileurl="file://$PROJECT_DIR$/JAVA_DAY_3/ENCAPSULATION/ENCAPSULATION.iml" filepath="$PROJECT_DIR$/JAVA_DAY_3/ENCAPSULATION/ENCAPSULATION.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA_DAY_1_2/JAVA_DAY_1_2.iml" filepath="$PROJECT_DIR$/JAVA_DAY_1_2/JAVA_DAY_1_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/JAVA_DAY_3/PACKAGE/PACKAGE.iml" filepath="$PROJECT_DIR$/JAVA_DAY_3/PACKAGE/PACKAGE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA_DAY_3/RECURRSION/RECURRSION.iml" filepath="$PROJECT_DIR$/JAVA_DAY_3/RECURRSION/RECURRSION.iml" />
     </modules>
   </component>
 </project>
