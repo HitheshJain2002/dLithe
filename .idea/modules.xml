@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ABSTRACT_INTERFACE/ABSTRACT_INTERFACE.iml" filepath="$PROJECT_DIR$/ABSTRACT_INTERFACE/ABSTRACT_INTERFACE.iml" />
       <module fileurl="file://$PROJECT_DIR$/Desktop.iml" filepath="$PROJECT_DIR$/Desktop.iml" />
       <module fileurl="file://$PROJECT_DIR$/JAVA_DAY_3/ENCAPSULATION/ENCAPSULATION.iml" filepath="$PROJECT_DIR$/JAVA_DAY_3/ENCAPSULATION/ENCAPSULATION.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA_DAY_3/PACKAGE/PACKAGE.iml" filepath="$PROJECT_DIR$/JAVA_DAY_3/PACKAGE/PACKAGE.iml" />
     </modules>
   </component>
 </project>
