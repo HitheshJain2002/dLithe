@@ -1,4 +1,4 @@
-package Banking.src;
+package BankTranscation;
 
 import BankTranscation.ATM;
 import BankTranscation.bank;
