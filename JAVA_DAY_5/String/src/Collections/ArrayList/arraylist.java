@@ -27,7 +27,7 @@ public class arraylist {
 
         System.out.println(l.contains(null)); // Check if the list contains 'null'
 
-        ArrayList l2 = new ArrayList(); // Creating another list to demonstrate containsAll and removeAll
+        LinkedList l2 = new LinkedList(); // Creating another list to demonstrate containsAll and removeAll
         l2.add(50);
         l2.add(45);
 
